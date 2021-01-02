@@ -1,0 +1,13 @@
+C:\Projetos_Estudos\DIO\Desafios\NumerosPrimosCSharp\bin\Debug\netcoreapp3.1\NumerosPrimosCSharp.exe
+C:\Projetos_Estudos\DIO\Desafios\NumerosPrimosCSharp\bin\Debug\netcoreapp3.1\NumerosPrimosCSharp.deps.json
+C:\Projetos_Estudos\DIO\Desafios\NumerosPrimosCSharp\bin\Debug\netcoreapp3.1\NumerosPrimosCSharp.runtimeconfig.json
+C:\Projetos_Estudos\DIO\Desafios\NumerosPrimosCSharp\bin\Debug\netcoreapp3.1\NumerosPrimosCSharp.runtimeconfig.dev.json
+C:\Projetos_Estudos\DIO\Desafios\NumerosPrimosCSharp\bin\Debug\netcoreapp3.1\NumerosPrimosCSharp.dll
+C:\Projetos_Estudos\DIO\Desafios\NumerosPrimosCSharp\bin\Debug\netcoreapp3.1\NumerosPrimosCSharp.pdb
+C:\Projetos_Estudos\DIO\Desafios\NumerosPrimosCSharp\obj\Debug\netcoreapp3.1\NumerosPrimosCSharp.csprojAssemblyReference.cache
+C:\Projetos_Estudos\DIO\Desafios\NumerosPrimosCSharp\obj\Debug\netcoreapp3.1\NumerosPrimosCSharp.AssemblyInfoInputs.cache
+C:\Projetos_Estudos\DIO\Desafios\NumerosPrimosCSharp\obj\Debug\netcoreapp3.1\NumerosPrimosCSharp.AssemblyInfo.cs
+C:\Projetos_Estudos\DIO\Desafios\NumerosPrimosCSharp\obj\Debug\netcoreapp3.1\NumerosPrimosCSharp.csproj.CoreCompileInputs.cache
+C:\Projetos_Estudos\DIO\Desafios\NumerosPrimosCSharp\obj\Debug\netcoreapp3.1\NumerosPrimosCSharp.dll
+C:\Projetos_Estudos\DIO\Desafios\NumerosPrimosCSharp\obj\Debug\netcoreapp3.1\NumerosPrimosCSharp.pdb
+C:\Projetos_Estudos\DIO\Desafios\NumerosPrimosCSharp\obj\Debug\netcoreapp3.1\NumerosPrimosCSharp.genruntimeconfig.cache
